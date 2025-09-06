@@ -29,23 +29,7 @@ This project combines Machine Learning and Power BI to predict and visualize cus
 
 ---
 
-## 🛠️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/customer-churn-ml-powerbi.git
-Install required Python packages:
 
-bash
-Copy code
-pip install -r requirements.txt
-Connect to SQL Server and extract data using provided scripts/notebooks.
-
-Run the Jupyter Notebook or Python scripts for preprocessing, ML training, and predictions:
-
-bash
-Copy code
-python churn_prediction.py
-Open Power BI dashboard file (.pbix) to explore visualizations.
 
 📈 Model Performance
 Accuracy: 83%
